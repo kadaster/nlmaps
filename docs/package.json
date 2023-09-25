@@ -36,7 +36,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-twig": "^0.7.0",
     "lint-formatter": "^1.0.1",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^1.2.2",
     "raw-loader": "^0.5.1",
     "run-sequence": "^1.2.2",
