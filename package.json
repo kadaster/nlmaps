@@ -50,7 +50,7 @@
     "tap-spec": "^5.0.0",
     "tape": "^5.0.1",
     "tape-catch": "^1.0.6",
-    "tape-run": "^8.0.0"
+    "tape-run": "^11.0.0"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
